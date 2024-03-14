@@ -6,7 +6,7 @@
     <!-- Route -->
     <h5 class="fw-bold" style="margin-top: 40px; font-weight: 400;">Rekaptulasi RPS</h5>
     <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="{{ route('beranda') }}">Dashboard</a></li>
+        <li class="breadcrumb-item"><a href="{{ route('beranda') }}">Dashboar dsdsd</a></li>
         <li class="breadcrumb-item active">Rekaptulasi RPS</li>
     </ol>
 

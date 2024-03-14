@@ -5,7 +5,7 @@
     <h5 class="fw-bold" style="margin-top: 40px; font-weight: 400;">Akademik</h5>
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="{{ route('beranda') }}">Dashboard</a></li>
-        <li class="breadcrumb-item active">Akademik</li>
+        <li class="breadcrumb-item active">Akademikasas</li>
     </ol>
     
     <div class="row g-3 mt-2 mb-4">
