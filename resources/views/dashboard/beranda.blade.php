@@ -37,7 +37,7 @@
         <div class="mock-atas">
             @if (!empty($lastLine))
                 <div class="card">
-                    <div class="card-header">Status Terbaru</div>
+                    <div class="card-header">Dashforge naik level karna pake github</div>
                     <div class="card-body">
                         <p>{{ $lastLine }}</p>
                     </div>
